@@ -1,1 +1,1 @@
-[Project] (https://olgvol.github.io/movie-list/)
+https://olgvol.github.io/movie-list/
