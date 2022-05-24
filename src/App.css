@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Koulen&display=swap');
+
+body {
+  margin: 0;
+  background-color: whitesmoke;
+  font-family: 'Grape Nuts', cursive; 
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Grape Nuts', cursive;
+  margin-top: 23px;
+  margin-bottom: 15px;
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+
+.poster {
+  margin: 10px 30%;
+}
+.poster .img {
+  width: 100%;
+  margin-top: 5px;
+}
